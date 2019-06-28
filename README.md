@@ -6,12 +6,15 @@ This an API written in C which provides math functions such as: Square root
 
 ## Folder Structure
 
-API
----MathFunctions
-  ---consumer.c
-  ---squareRoot.c
-  ---mathConsumer.exe
-  ---getSquareRoot.exe
+    .
+    ├── ...
+    ├── API                   
+    │   ├── MathFunctions     
+    │   ... ├── consumer.c       
+    │   ... ├── squareRoot.c          
+    │   ... ├── mathConsumer.exe
+    │   ... └── getSquareRoot.exe
+    └── ... 
 
 The main idea is to store all operations inside the MathFunctions folder
 to have easy access when calling them.
