@@ -1,5 +1,9 @@
-# Advanced Programming
+# API for Math Functions
 
 ## Objetive
 
-Reinforce and apply previous knowledge in new technologies - JavaScript :sunglasses:
+This an API written in C which provides math functions such as: Square root
+
+## Usage
+
+Still pending of description
